@@ -1,4 +1,4 @@
-🦜 LangChain Learning Playground**
+🦜 LangChain Learning Playground
 
 Welcome to the LangChain Learning Playground! This repository is a structured, educational guide designed to help you master the core components and capabilities of the LangChain framework.
 
